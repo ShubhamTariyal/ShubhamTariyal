@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamTariyal
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working on Flutter
 - 📫 Reach me at Gmail - tariyal98@gmail.com
 
 <!---
